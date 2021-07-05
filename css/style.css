@@ -31,7 +31,6 @@ a:hover {
   height: 100%;
   display: flex;
   justify-content: space-between;
-  color: rgba(0,0,0,.56);
 }
 
 .logo {
@@ -397,4 +396,5 @@ footer{
   padding-left: 40px;
   font-size: .85rem;
   font-weight: lighter;
+  color: rgba(0,0,0,.56);
 }
