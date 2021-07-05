@@ -31,6 +31,7 @@ a:hover {
   height: 100%;
   display: flex;
   justify-content: space-between;
+  color: rgba(0,0,0,.56);
 }
 
 .logo {
